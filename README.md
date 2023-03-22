@@ -1,1 +1,1 @@
-# decorator
+# Python dekoratorlari bo'yicha qo'llanma
